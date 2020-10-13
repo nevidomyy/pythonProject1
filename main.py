@@ -16,7 +16,7 @@ if __name__ == '__main__':
 # See PyCharm help at https://www.jetbrains.com/help/pycharm/
 print ('Проверка работы Питона')
 from tkinter import *
-#Проверка гит хаб
+#Проверка гит хаб)2
 
 window = Tk()
 window.title("Добро пожаловать в приложение PythonRu")
